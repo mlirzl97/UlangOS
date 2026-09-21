@@ -1,0 +1,6 @@
+{
+  "name": "HQ16 AquaOS",
+  "description": "AI-powered aquaculture operating system for freshwater prawn (Macrobrachium rosenbergii / ulang) farming by HQ16 Agri Labs in Bicol, Philippines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
